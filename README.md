@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=115F1DB3&vCenter=true&repeat=false&random=false&width=800&lines=Welcome+to+nyeong-nyeong+Github.;I+am+a+non-major.;I+first+encountered+software+development;at+the+age+of+27.;I+want+to+develop+in;a+sincere+%2C+fun+and+consistent+way)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=115F1DB3&vCenter=true&random=false&width=800&lines=Welcome+to+nyeong-nyeong+Github.;I+am+a+non-major.;I+first+encountered+software+development;at+the+age+of+27.;I+want+to+develop+in;a+sincere+%2C+fun+and+consistent+way)](https://git.io/typing-svg)
 
 ### front
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
