@@ -1,8 +1,5 @@
-<div style="background-color:#344E41FF">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=E9EDC9&background=344E41&center=true&vCenter=true&random=false&width=800&height=200&lines=Welcome+to+nyeong-nyeong+GitHub.;I+am+a+non-major.;I+first+encountered+software+development;at+the+age+of+27.;I+want+to+develop+in;+a+sincere%2C+fun+and+consistent+way.)](https://git.io/typing-svg)
-
-<div style="text-align:center">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=115F1DB3&vCenter=true&repeat=false&random=false&width=800&lines=Welcome+to+nyeong-nyeong+Github.;I+am+a+non-major.;I+first+encountered+software+development;at+the+age+of+27.;I+want+to+develop+in;a+sincere+%2C+fun+and+consistent+way)](https://git.io/typing-svg)
 
 ### front
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
@@ -35,7 +32,3 @@
 <br>
 <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=GitLab&logoColor=white">
 <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=for-the-badge&logo=Sourcetree&logoColor=white">
-</div>
-
-
-</div>
