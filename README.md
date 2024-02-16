@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=1000&color=115F1DB3&vCenter=true&random=false&width=1000&height=70&lines=welcome+to+nyeong-nyeong+github;At+the+age+of+27%2C+I+had+my+initial+encounter+with+software+development.;with+software+development.;+I+aspire+to+develop+myself;sincerely%2C+enjoyably%2C+and+consistently%2C+aiming+to+;+become+more+progressive+person.)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1000&color=115F1DB3&vCenter=true&random=false&width=1000&height=70&lines=welcome+to+nyeong-nyeong+github;At+the+age+of+27%2C;+I+had+my+initial+encounter+with+software+development.;+I+aspire+to+develop+myself;sincerely%2C+enjoyably%2C+and+consistently%2C+aiming+to+;+become+more+progressive+person.)](https://git.io/typing-svg)
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
 <br>
